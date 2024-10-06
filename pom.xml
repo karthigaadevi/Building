@@ -1,4 +1,4 @@
-<build>
+<project>
     <plugins>
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
@@ -15,4 +15,4 @@
             <version>2.19</version>
         </plugin>
     </plugins>
-</build>
+</project>
